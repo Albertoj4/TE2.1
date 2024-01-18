@@ -6,4 +6,4 @@
 
 ## Paso 2
 ### Creamos una imagen de Docker donde incluimos Apache y PHP 
-![Descargar Recursos](./img/capt2.png)
+![Crear Imagen](./img/capt2.png)
