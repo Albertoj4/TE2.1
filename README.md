@@ -30,3 +30,5 @@
 #### Red tipo bridge: es un dispositivo de interconexión de redes que conecta segmentos de red de diferentes topologías y arquitecturas
 
 #### Red tipo lamp-network: LAMP es el stack de tecnologías más usado en la actualidad, todas ellas de código abierto, con un porcentaje de penetración que supera de largo el 50% de los sitios web.
+
+## Paso 6
