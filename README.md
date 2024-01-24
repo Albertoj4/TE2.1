@@ -23,3 +23,10 @@
 ## Paso 5
 ### Definimos el servicio db para construir un contenedor en MySql.
 ![Descargar Recursos](./img/capt9.png)
+![Descargar Recursos](./img/capt10.png)
+![Descargar Recursos](./img/capt11.png)
+![Descargar Recursos](./img/capt12.png)
+![Descargar Recursos](./img/capt13.png)
+#### Red tipo bridge: es un dispositivo de interconexión de redes que conecta segmentos de red de diferentes topologías y arquitecturas
+
+#### Red tipo lamp-network: LAMP es el stack de tecnologías más usado en la actualidad, todas ellas de código abierto, con un porcentaje de penetración que supera de largo el 50% de los sitios web.
