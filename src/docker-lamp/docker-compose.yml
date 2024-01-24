@@ -14,13 +14,13 @@ services:
             - lamp-network
     db:
         image: mysql:8.0
-        container_name: mysql-lamp-8.0
+        container_name: lamp-mysql-sdf
         ports: 
-            - "3390:3306"
+            - "3399:3306"
         command: --default-authentication-plugin=mysql_native_password
         environment:
-            MYSQL_DATABASE: dbname
-            MYSQL_PASSWORD: test
+            MYSQL_DATABASE: lamp
+            MYSQL_PASSWORD: lamp
             MYSQL_ROOT_PASSWORD: test 
         volumes:
             - ./dump:/docker-entrypoint-initdb.d

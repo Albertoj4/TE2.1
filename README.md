@@ -14,3 +14,12 @@
 ![Descargar Recursos](./img/capt4.png)
 ![Descargar Recursos](./img/capt5.png)
 ![Descargar Recursos](./img/capt6.png)
+
+## Paso 4
+### Definimos la network y lo enlazamos con www.
+![Descargar Recursos](./img/capt7.png)
+![Descargar Recursos](./img/capt8.png)
+
+## Paso 5
+### Definimos el servicio db para construir un contenedor en MySql.
+![Descargar Recursos](./img/capt9.png)
