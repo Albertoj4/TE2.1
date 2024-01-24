@@ -34,3 +34,9 @@
 ## Paso 6
 ### Realizamos cambios en la zona del contenedor PHPMyAdmin.
 ![Descargar Recursos](./img/capt14.png)
+
+## Paso 7
+### Definimos la precedencia de arranque de los contenedores, para que los servicios www y phpmyadmin deban esperar a que el servicio mysql esté en ejecución.
+
+#### Levantamos el docker compose
+![Gif](./img/gif1.gif)
