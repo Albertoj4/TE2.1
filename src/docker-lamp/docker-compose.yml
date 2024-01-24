@@ -31,16 +31,17 @@ services:
 
     phpmyadmin:
         image: phpmyadmin/phpmyadmin
+        container_name: lamp-phpmyadmin-sdf
         depends_on: 
             - db
         networks:
             - lamp-network
         ports:
-            - 8000:80
+            - 8900:80
         
         environment:
-            MYSQL_USER: root
-            MYSQL_PASSWORD: test
+            MYSQL_USER: lamp
+            MYSQL_PASSWORD: lamp
             MYSQL_ROOT_PASSWORD: test 
 volumes:
     db_data: 
