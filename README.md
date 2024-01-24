@@ -32,3 +32,4 @@
 #### Red tipo lamp-network: LAMP es el stack de tecnologías más usado en la actualidad, todas ellas de código abierto, con un porcentaje de penetración que supera de largo el 50% de los sitios web.
 
 ## Paso 6
+###
